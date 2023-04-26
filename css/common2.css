@@ -1,0 +1,33 @@
+* { padding: 0; margin: 0; }
+/* 페이지 기본 글꼴과 크기 설정 */
+/*body { font-family: "돋움";   font-size: 14px; }*/
+img { border: 0;}
+ul { list-style-type: none; }
+a { display: inline-block; text-decoration: none; }
+a:link { color: #222222; }
+a:hover { color: #222222; }
+a:visited { color: #222222; }
+a:active { color: #222222; }
+
+/*#top { border: 5px solid gray;}
+#top_menu {border: 5px solid red;}
+#menu_bar {width:500px;border: 5px solid blue;}
+#menu_bar ul {border: 5px solid blue;}
+#menu_bar li {border: 5px solid yellow;}*/
+
+
+
+
+#top { position: relative; width: 100%; height: 50px; background-color: #7B1F43;}
+#top img { position: absolute; top: 15px; left: 20px; }
+#top h3 { position: absolute; top: 15px; left: 40px; font-size: 16px; }
+#top_menu { float: right; margin-top: 15px; margin-right: 50px;}
+#top_menu li { display: inline; color: white;}
+#menu_bar { height: 48px;  font-size: 16px;}
+#menu_bar ul { width: 1000px; margin: 0 auto; padding: 15px 0 0 140px;}
+#menu_bar li { display: inline; margin-left: 90px; color: white; }
+#top a:link { color: white; }
+#top a:hover { color: white; }
+#top a:visited { color: white; }
+#top a:active { color: white; }
+

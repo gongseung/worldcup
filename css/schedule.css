@@ -1,0 +1,23 @@
+      table {
+        width: 100%;
+      }
+      th, td {
+        padding: 10px;
+        border-bottom: 1px solid #dadada;
+      }
+      td {
+        text-align : center;
+      }
+      .down {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top : 10%;
+            width : 50%;
+         background-color : white;
+      }
+      .dr{
+          color: #fff;
+          background: #ce4869 ;
+          align : center;
+
+      }
