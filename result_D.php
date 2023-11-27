@@ -20,7 +20,7 @@
     <td><a href="result_E.php">E조</a></td>
     <td><a href="result_F.php">F조</a></td>
     <td><a href="result_G.php">G조</a></td>
-    <td><a href="result_H.php">H조</a></td>
+    <td><a href="result_H.php">H조</a></td> 
   </tr>
     </table>
 
