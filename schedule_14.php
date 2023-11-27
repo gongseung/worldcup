@@ -21,7 +21,7 @@
     <td><a href="schedule_6.php">11.26 토</a></td>
     <td><a href="schedule_7.php">11.27 일</a></td>
     <td><a href="schedule_8.php">11.28 월</a></td>
-    <td><a href="schedule_9.php">11.29 화</a></td>
+    <td><a href="schedule_9.php">11.29 화</a></td> 
     <td><a href="schedule_10.php">11.30 수</a></td>
     <td><a href="schedule_11.php">12. 1 목</a></td>
     <td><a href="schedule_12.php">12. 2 금</a></td>
