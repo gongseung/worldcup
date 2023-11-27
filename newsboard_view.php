@@ -18,7 +18,7 @@
 	$page  = $_GET["page"];
 
 	$con = mysqli_connect("localhost", "root", "", "worldcup");
-	$sql = "select * from newsboard where news_num=$num";
+	$sql = "select * from newsboard where news_num=$num"; 
 	$result = mysqli_query($con, $sql);
 
 	$row = mysqli_fetch_array($result);
