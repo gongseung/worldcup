@@ -23,7 +23,7 @@
 					<span class="col4">첨부</span>
 					<span class="col5">등록일</span>
 					<span class="col6">조회</span>
-				</li>
+				</li> 
 <?php
 	if (isset($_GET["page"]))
 		$page = $_GET["page"];
