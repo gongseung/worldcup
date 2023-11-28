@@ -15,7 +15,7 @@
 	    <h3 id="member_title">
 	    	관리자 모드 > 회원 관리
 		</h3>
-	    <ul id="member_list">
+	    <ul id="member_list"> 
 				<li>
 					<span class="col1">번호</span>
 					<span class="col2">아이디</span>
