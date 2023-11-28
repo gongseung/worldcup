@@ -12,7 +12,7 @@
     $con = mysqli_connect("localhost", "root", "", "worldcup");
 
 	$sql = "insert into members(id, pass, name, email, regist_day, level, point) ";
-	$sql .= "values('$id', '$pass', '$name', '$email', '$regist_day', 9, 0)";
+	$sql .= "values('$id', '$pass', '$name', '$email', '$regist_day', 9, 0)"; 
 
 	mysqli_query($con, $sql);  // $sql 에 저장된 명령 실행
     mysqli_close($con);     
