@@ -12,7 +12,7 @@
 		#col1 img {float: left; width:160px; height: 110px;}
 		#col2 {margin-left: 160px; padding: 5px;}
 		#li1 {width:100%; height: 25px;}
-		#li2 { width:100%; height: 50px; }
+		#li2 { width:100%; height: 50px; } 
 		#li3 {font-size: 10px; width:100%; height: 10px; margin-top: 5px;}
 		#section_box {margin:50px 0 0 5%; }
 		#page_num {	text-align: center;	margin: 30px 0 }
