@@ -14,7 +14,7 @@
           return;
       }
       if (!document.board_form.content.value)
-      {
+      { 
           alert("내용을 입력하세요!");    
           document.board_form.content.focus();
           return;
